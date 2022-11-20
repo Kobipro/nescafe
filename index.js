@@ -1,1 +1,1 @@
-alert("hello hooman!")
+alert("click ok to continue!")
